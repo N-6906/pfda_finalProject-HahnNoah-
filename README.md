@@ -3,7 +3,7 @@
 ## Video Link:
 ###
 
-## Description
+## Description:
 
 ### For my final project, I decided to create a drawing program. I wanted to create something that blended my enthusiasm for art as well as programming. This progra allows the user to draw using the mouse, change to brush color to any color, change the brush size, and reset and clear the canvas.
 

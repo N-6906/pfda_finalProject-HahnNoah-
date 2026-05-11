@@ -1,7 +1,7 @@
 import pygame
 
 def main():
-    print("GO!")
+    print("Program Closed.")
 
 pygame.init()
 scr = pygame.display.set_mode((800, 600))
