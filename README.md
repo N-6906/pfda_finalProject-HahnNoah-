@@ -9,4 +9,4 @@
 
 ### The files in my repsitory are the main python file for the project in the src directory, this README file, and the requirements file. <sub>Please note that some of the code within the project.py file was carried over from a different file that I did not know how to transfer into the repository without errors.</sub>    
 
-### I would like to improve on the polish of the program, make a better, more dynamic user interface and maybe some more features, but for now, im satisfied with my work, given the time alotted.
+### I would like to improve on the polish of the program and make a better, more dynamic user interface with maybe some more features like shapes and a paint bucket tool. However, I'm satisfied with my work, given the time alotted.
