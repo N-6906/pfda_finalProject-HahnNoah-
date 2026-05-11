@@ -1,5 +1,8 @@
 import pygame
 
+def main():
+    print("GO!")
+
 pygame.init()
 scr = pygame.display.set_mode((800, 600))
 clock = pygame.time.Clock()
@@ -94,4 +97,7 @@ while run:
     clock.tick(60)
 
 pygame.quit()
+
+if __name__=="__main__":
+    main()
 #Push/PullTEST
